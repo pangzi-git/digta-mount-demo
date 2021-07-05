@@ -1,1 +1,1 @@
-# digta-mount-demo
+# digtal-mount-demo
